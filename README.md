@@ -9,13 +9,13 @@
 
 - 🌐 Web Technologies: Skilled in React.js, Node.js, HTML, CSS, JavaScript, python, Sass for full-stack development.
   
-- 🌱 I’m currently learning **ReactJs, project-management-foundations**
+- 🌱 I’m currently learning **ReactJs, project-management-foundations**.
 
 - 🎨 Design: I possess knowledge in design processes, gained through experience working as a UI/UX designer on various projects utilizing Figma.
 
 - 📚 Continuous Learning: I'm always eager to expand my knowledge and embrace new challenges.
 
-- 💬 Ask me about **ReactJs, Python**
+- 💬 Ask me about **ReactJs, Python**.
 
 - 📫 How to reach me **hussainabuqattam3@gmail.com**
 
@@ -23,6 +23,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/hussain-abu-qattam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hussain-abu-qattam" height="30" width="40" /></a>
 <a href="https://instagram.com/hussain abuqatam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hussain abuqatam" height="30" width="40" /></a>
+<a href="https://facebook.com/hussain abuqatam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hussain abuqatam" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
