@@ -1,4 +1,4 @@
-![logo](https://github.com/hussainabuqattam/Hussain/blob/main/readgit.gif)
+![logo](https://github.com/hussainabuqattam/hussainabuqattam/blob/main/linux-project-management-software.jpg)
 <h1 align="center">Hi 👋, I'm Hussain Abu Qattam</h1>
 <h3 align="center">A Software Engineer / Project Manager from Jordan</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
