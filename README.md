@@ -5,7 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hussainabuqattam&label=Profile%20views&color=0e75b6&style=flat" alt="hussainabuqattam" /> </p>
 
+- 🔭 Experience: I have good experience in programming web applications, especially in the field of the frontend. I also work currently as a project manager with different methodologies such as Agile, Scrum, and Waterfall.
+
+- 🌐 Web Technologies: Skilled in React.js, Node.js, HTML, CSS, JavaScript, python, Sass for full-stack development.
+  
 - 🌱 I’m currently learning **ReactJs, project-management-foundations**
+
+- 🎨 Design: I possess knowledge in design processes, gained through experience working as a UI/UX designer on various projects utilizing Figma.
+
+- 📚 Continuous Learning: I'm always eager to expand my knowledge and embrace new challenges.
 
 - 💬 Ask me about **ReactJs, Python**
 
